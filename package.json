@@ -1,0 +1,22 @@
+{
+  "name": "namaste-react",
+  "version": "1.0.0",
+  "description": "learning purpose",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itsPriyanshu123/namaste-react.git"
+  },
+  "author": "Priyanshu Dubey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/itsPriyanshu123/namaste-react/issues"
+  },
+  "homepage": "https://github.com/itsPriyanshu123/namaste-react#readme",
+  "devDependencies": {
+    "parcel": "^2.9.3"
+  }
+}
