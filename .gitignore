@@ -1,1 +1,15 @@
-node_modules
+/node_modules
+/dist
+.parcel-cache
+# parcel
+HMR = hot module Replacement,
+caching
+Dev Build 
+local server
+file watching Algorithm writen in c++
+image optimization
+bundling
+Error handling
+Differntal bundling
+Consistent hashing
+compression
